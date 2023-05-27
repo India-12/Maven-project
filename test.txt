@@ -1,0 +1,8 @@
+Save up to 90% on EC2 with Spot Instances
+Optimize price-performance by combining EC2 purchase options in a single EC2 ASG. Learn more 
+
+Amazon GuardDuty Malware Protection
+GuardDuty now provides agentless malware detection in Amazon EC2 & EC2 container workloads. Learn more 
+
+Get Up to 40% Better Price Performance
+T4g instances deliver the best price performance for burstable general purpose workloads in Amazon EC2. Learn more 
